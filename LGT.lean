@@ -21,6 +21,7 @@ import LGT.WilsonAction.GaugeInvariance
 import LGT.MassGap.TransferMatrix
 import LGT.MassGap.DoeblinCondition
 import LGT.MassGap.MassGap2D
+import LGT.MassGap.MassGap2DUnconditional
 
 -- Layer 5: Gibbs specification + Dobrushin (d≥3 mass gap path)
 import LGT.Gibbs.YMSpec
